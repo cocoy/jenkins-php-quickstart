@@ -12,10 +12,3 @@ php composer.phar install
 ```
 sudo vendor/bin/phing install
 ```
-
-
-test 1:24
-test 1:28
-
-test 2:03
-test 2:05
