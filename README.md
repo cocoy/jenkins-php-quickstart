@@ -15,3 +15,4 @@ sudo vendor/bin/phing install
 
 
 test 1:24
+test 1:28
