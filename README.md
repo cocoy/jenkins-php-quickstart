@@ -12,3 +12,5 @@ php composer.phar install
 ```
 sudo vendor/bin/phing install
 ```
+
+testing another config.json
